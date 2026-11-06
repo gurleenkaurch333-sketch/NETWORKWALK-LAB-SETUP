@@ -271,7 +271,26 @@ Android VM                    | Exploring connectivity across operating systems
 Linux Terminal                | Executing networking commands
 Ping                          | Testing network connectivity
 
-# Author
+9. 💻 Host Machine Specifications
+
+The cybersecurity lab was set up using an **HP 250 G9 Notebook PC** running Windows 11.
+
+The host machine specifications are:
+
+- **Laptop Manufacturer:** HP
+- **Model:** HP 250 15.6-inch G9 Notebook PC
+- **Operating System:** Windows 11 Home Single Language
+- **OS Version:** 10.0.26300 (Build 26300)
+- **Processor:** 12th Gen Intel Core i3-1215U
+- **CPU Cores:** 6 Cores
+- **Logical Processors:** 8 Threads
+- **System Architecture:** 64-bit (x64-based)
+- **BIOS Mode:** UEFI
+- **Virtualization Software:** Oracle VirtualBox
+
+This system served as the host machine for running and managing the virtual environments used throughout the project.
+
+10. 👤 Author
 Name: Gurleen Kaur
 Field: Cybersecurity
 Project: Virtual Cybersecurity Lab Setup
